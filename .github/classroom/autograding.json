@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "e01",
+      "setup": "",
+      "run": "cd e01 && node e01.js",
+      "input": "",
+      "output": "num is a number\r\nstr is a string\r\nbool is a boolean\r\nnullVar is an object\r\nundefinedVar is undefined\r\nsym is a symbol\r\nobj is an object",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "e02",
+      "setup": "",
+      "run": "cd e02 && node e02.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "e03",
+      "setup": "",
+      "run": "cd e03 && node e03.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "e04",
+      "setup": "",
+      "run": "cd e04 && node e04.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "e05",
+      "setup": "",
+      "run": "cd e05 && node e05.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "e06",
+      "setup": "",
+      "run": "cd e06 && node e06.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": 1
+    }
+  ]
+}
