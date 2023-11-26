@@ -13,8 +13,8 @@ console.log("bool is a " + typeof bool);
 let nullVar = null;
 console.log("nullVar is an " + typeof nullVar);
 
-let undefiedVar;
-console.log("undefiedVar is " + typeof undefiedVar);
+let undefinedVar;
+console.log("undefinedVar is " + typeof undefinedVar);
 
 let sym = Symbol("p");
 console.log("sym is a " + typeof sym);
